@@ -1,5 +1,5 @@
 ### Hi 👋
-Readme bios exist. currently working on personal projects.
+Readme bios exist. currently working on a personal project and my website.
 
 <!--
 **ide-k/ide-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
