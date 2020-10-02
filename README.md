@@ -1,6 +1,6 @@
 ### Hi 👋
 I'm Siddharth, most people call me Sidd. I enjoy coding, robotics and spending time with my dog, Goggles!
-Currently working on a personal project and my website.
+Currently working on a personal project and my website. I also teach robot programming for my FIRST Robotics team.
 
 <!--
 **ide-k/ide-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
