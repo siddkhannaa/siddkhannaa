@@ -1,8 +1,8 @@
 ### Hi 👋
-I'm Siddharth, most people call me Sidd. I enjoy coding, robotics and spending time with my dog, Goggles!
+I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
 Currently working with node.js, a robot, and my website. I also teach robot programming for my FIRST Robotics team.
 
-Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock that I photoshopped
+Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
 <!--
 **ide-k/ide-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
