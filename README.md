@@ -1,6 +1,6 @@
 ### Hi 👋
 I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
-Currently working with R, Python, and Kaggle Datasets.
+Currently working with Webdev (mainly React), Python, and a group project scheduled to be finished around mid May!
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
