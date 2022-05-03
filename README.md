@@ -1,7 +1,6 @@
 ### Hi 👋
 I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
-Currently working with Webdev stacks (mainly React and three), Python, and a group project scheduled to be finished around mid May!
-(also a little dabble of unity and c#)
+Currently working with Django and Unity
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
