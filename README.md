@@ -7,7 +7,7 @@ Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 ## What am I doing over the summer?
 - participating in hackathons
 - completing personal projects
-- completing a group project
+- completing a group project ✔️
 
 ## Here are the languages I use
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
