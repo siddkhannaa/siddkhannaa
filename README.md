@@ -1,6 +1,6 @@
 # Hi 👋
 I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
-Currently working with Unity and AWS
+Currently working with React and webdev
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
