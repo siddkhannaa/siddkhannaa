@@ -8,7 +8,7 @@ Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 - participating in hackathons ✔️✔️✔️✔️✔️
 - completing personal projects
 - completing a group project ✔️
-- googlectf ✔️
+- googlectf ✔️ (116th)
 
 ## Here are the languages I use
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
