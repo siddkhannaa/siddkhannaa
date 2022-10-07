@@ -4,7 +4,7 @@ Currently working with React and webdev
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
-## What am I doing over the summer?
+## What did I do over the summer?
 - participating in hackathons ✔️✔️✔️✔️✔️
 - completing a group project ✔️
 - googlectf ✔️ (116th)
