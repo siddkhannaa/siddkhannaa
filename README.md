@@ -4,12 +4,6 @@ Currently working with React and Cybersecurity challenges!
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
-## What did I do over the summer?
-- participating in hackathons ✔️✔️✔️✔️✔️
-- completing a group project ✔️
-- googlectf ✔️ (116th)
-- hacky holidays ✔️ (18th)
-
 ## Here are the languages I use
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)&nbsp;&nbsp;
