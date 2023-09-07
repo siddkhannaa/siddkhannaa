@@ -1,8 +1,9 @@
 # Hi 👋
 I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
-Currently working with React and Cybersecurity challenges!
+Currently working with Arduino and Jupyter Notebook!
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
+Interests: 🏎 I am an avid F1 fan! I even have a repo dedicated to analyzing F1 race and telemetry data!
 
 ## Here are the languages I use
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python)&nbsp;&nbsp;
