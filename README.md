@@ -1,6 +1,6 @@
 # Hi 👋
 I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
-Currently working on a new Website and Jupyter Notebook!
+Currently working with lots of data!
 
 Fun Fact: 🐶 My Profile Picture is of a friend's old dog in a sock
 
