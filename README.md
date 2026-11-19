@@ -1,5 +1,5 @@
 # Hi 👋
-I'm Siddharth, most people call me Sidd. I enjoy coding and robotics.
+I'm Siddharth. I enjoy coding and robotics.
 Currently working with lots of data!
 
 <a href="https://github.com/siddkhannaa/siddkhannaa">
